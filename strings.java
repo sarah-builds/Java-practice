@@ -3,12 +3,12 @@ import java.sql.DataTruncation;
 public class CW_strings {
     public static void main(String[] args) {
         String name="Sarah";
-//
-//        int value=name.length();
-//        System.out.println(value);
-//
-//        String lstr = name.toLowerCase();
-//        System.out.println(lstr);
+        
+       int value=name.length();
+       System.out.println(value);
+
+       String lstr = name.toLowerCase();
+       System.out.println(lstr);
 
        String up = name.toUpperCase();
        System.out.println(up);
