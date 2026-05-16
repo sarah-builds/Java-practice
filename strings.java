@@ -12,17 +12,17 @@ public class CW_strings {
 
        String up = name.toUpperCase();
        System.out.println(up);
-//
-//        String me ="     sarah    ";
-//        System.out.println(me);
-//        String you=me.trim();
-//        System.out.println(you);
-//        System.out.println(name.substring(2 , 4));
-//        System.out.println(name.replace('a' , 'p'));
-//        System.out.println(name.replace("ara" , "para"));
-//        System.out.println(name.startsWith("Sa"));
-//        System.out.println(name.charAt(2));
-//        System.out.println(name.indexOf("Sa"));   gives index of first occurance
+
+       String me ="     sarah    ";
+       System.out.println(me);
+       String you=me.trim();
+       System.out.println(you);
+       System.out.println(name.substring(2 , 4));
+       System.out.println(name.replace('a' , 'p'));
+       System.out.println(name.replace("ara" , "para"));
+       System.out.println(name.startsWith("Sa"));
+       System.out.println(name.charAt(2));
+       System.out.println(name.indexOf("Sa"));   gives index of first occurance
         String modified= "harryrry";
 //        System.out.println(modified.indexOf("rry" , 4));  start giving index of given number
 //        System.out.println(modified.lastIndexOf("rry"));   gives index of last occurance
