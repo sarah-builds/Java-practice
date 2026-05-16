@@ -9,9 +9,9 @@ public class CW_strings {
 //
 //        String lstr = name.toLowerCase();
 //        System.out.println(lstr);
-//
-//        String up = name.toUpperCase();
-//        System.out.println(up);
+
+       String up = name.toUpperCase();
+       System.out.println(up);
 //
 //        String me ="     sarah    ";
 //        System.out.println(me);
