@@ -1,3 +1,7 @@
+// in this i implement only 2 funtion namely-
+// 1.factorial 
+// 2.fibonacci
+
 public class CW_recursion {
     static int factorial(int n){
        if(n==1 || n==0){
