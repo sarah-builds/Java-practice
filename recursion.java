@@ -1,11 +1,11 @@
 public class CW_recursion {
     static int factorial(int n){
-//        if(n==1 || n==0){
-//            return 1;
-//        }
-//        else {
-//            return n*factorial(n-1);
-//        }
+       if(n==1 || n==0){
+           return 1;
+       }
+       else {
+           return n*factorial(n-1);
+       }
         int mu=1;
         for (int i=1;i<=n;i++){
             mu *=i;
