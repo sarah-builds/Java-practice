@@ -1,3 +1,5 @@
+// switch cases
+
 import java.util.Scanner;
 public class CW_ps_conditional {
     public static void main(String[] args) {
