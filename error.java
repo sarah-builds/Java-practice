@@ -9,7 +9,7 @@ public class CW_ps_error {
     public static void main(String[] args) throws myexp{
 //        prb 1
        try{
-           int a=999/0;
+           int a=999/0; 
        }
        catch (ArithmeticException e){
            System.out.println("hahah");
