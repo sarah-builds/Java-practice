@@ -2,7 +2,7 @@ public class CW_ps_arr {
     public static void main(String[] args) {
 //        problem 1
        float []marks= {40.f,45.2f,85.27f};
-       float sum=0;
+       float sum=0; 
        for (float element:marks){
            sum=sum+element;
        }
